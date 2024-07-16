@@ -1,0 +1,30 @@
+{
+    "airport-marker" : {
+        "width": 50,
+        "height": 50,
+        "x": 0,
+        "y": 0,
+        "pixelRatio": 1
+    },
+    "waypoint-marker-white" : {
+        "width": 50,
+        "height": 44,
+        "x": 0,
+        "y": 50,
+        "pixelRatio": 1
+    },
+    "airway-marker" : {
+        "width": 25,
+        "height": 25,
+        "x": 50,
+        "y": 0,
+        "pixelRatio": 1
+    },
+    "airway-marker-full" : {
+        "width": 25,
+        "height": 25,
+        "x": 50,
+        "y": 25,
+        "pixelRatio": 1
+    }
+}
