@@ -1,0 +1,44 @@
+{
+    "airport-marker": {
+        "width": 1000,
+        "height": 1000,
+        "x": 0,
+        "y": 0,
+        "pixelRatio": 2
+    },
+        "vor-label": {
+        "width": 398,
+        "height": 198,
+        "x": 0,
+        "y": 1000,
+        "pixelRatio": 2
+    },
+        "ndb-icon": {
+        "width": 200,
+        "height": 200,
+        "x": 1000,
+        "y": 0,
+        "pixelRatio": 2
+    },
+        "waypoint-marker-white": {
+        "width": 100,
+        "height": 88,
+        "x": 1000,
+        "y": 200,
+        "pixelRatio": 2
+    },
+        "airway-marker-full": {
+        "width": 50,
+        "height": 50,
+        "x": 1100,
+        "y": 200,
+        "pixelRatio": 2
+    },
+        "vor-flag": {
+        "width": 48,
+        "height": 196,
+        "x": 1000,
+        "y": 288,
+        "pixelRatio": 2
+    }
+}
